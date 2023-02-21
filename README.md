@@ -9,4 +9,5 @@ The arguments are:
 
 ## Example:
 Command: genmaze.exe 10 20
+
 Result: ![image example](https://raw.githubusercontent.com/Minutzu321/MazeGenerator/main/5156046c550ccc93699138658bf29530.png)
